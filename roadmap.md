@@ -1,8 +1,7 @@
 # Roadmap
 
-- [x] Đọc phạm vi demo, tính năng miễn phí và quy tắc UI/UX trong tài liệu
-- [x] Chọn hướng thiết kế giao diện di động
-- [x] Xây dựng prototype tương tác cho luồng free
-- [x] Kiểm tra hiển thị và thao tác trên mobile
-- [x] Bám sát hướng Warm frosted cream đã chọn
-- [x] Không triển khai API, backend, thanh toán hoặc deploy
+- [x] Dựng prototype các luồng miễn phí hiện có
+- [ ] Rà soát toàn bộ màn hình còn thiếu trong tài liệu
+- [ ] Bổ sung giao diện tính năng trả phí và các luồng còn thiếu
+- [ ] Kiểm tra toàn bộ thao tác và hiển thị trên mobile
+- [ ] Giữ nguyên phạm vi prototype frontend với dữ liệu mẫu, không API/backend/thanh toán/deploy

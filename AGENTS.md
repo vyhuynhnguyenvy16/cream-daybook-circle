@@ -13,3 +13,5 @@
 
 - Keep the current app as a frontend-only interactive prototype using local sample data; the user explicitly excluded APIs, backend work, payments, and deployment.
 - Use the warm cream, terracotta, paper-ticket visual system and reserve polaroid framing for user photos to match the approved direction.
+
+- Expand the prototype with paid-feature screens using local sample data only; payment is simulated UI, with no provider integration or backend.
