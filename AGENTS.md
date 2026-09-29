@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Project rules
+
+- Keep the current app as a frontend-only interactive prototype using local sample data; the user explicitly excluded APIs, backend work, payments, and deployment.
+- Use the warm cream, terracotta, paper-ticket visual system and reserve polaroid framing for user photos to match the approved direction.
