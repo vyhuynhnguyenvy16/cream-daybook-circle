@@ -5,3 +5,4 @@
 - [ ] Xây dựng prototype tương tác cho luồng free
 - [ ] Kiểm tra hiển thị và thao tác trên mobile
 - [ ] Bám sát hướng Warm frosted cream đã chọn
+- [ ] Không triển khai API, backend, thanh toán hoặc deploy
